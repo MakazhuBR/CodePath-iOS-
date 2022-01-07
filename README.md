@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] Split the cost up to 10 people
+- [x] Split the cost up to 10 people
 
 ## Video Walkthrough
 
